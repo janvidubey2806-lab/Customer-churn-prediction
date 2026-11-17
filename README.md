@@ -1,5 +1,9 @@
 Customer Churn Prediction
+🚀 Live Demo
 
+Try the live application here:
+
+"Customer Churn Prediction – Live App" (https://customer-churn-prediction-8fwtnmgqcybdwnnkn2jntc.streamlit.app/)
 Project Overview
 
 Customer Churn Prediction is a Machine Learning project that predicts whether a customer is likely to leave a service or continue using it.
