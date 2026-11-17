@@ -61,3 +61,14 @@ Janvi Dubey
 Project Status
 
 Version 1.0 – Completed
+## Project Screenshots
+
+### Application Interface
+![App Interface](screenshots/Screenshot%202026-11-18%20001053.png)
+
+### Prediction Result
+![Prediction Result](screenshots/Screenshot%202026-11-18%20001012.png)
+## Project Screenshots
+![Customer Churn Prediction App](screenshots/Screenshot%202026-11-18%20001053.png)
+
+![Customer Churn Prediction Result](screenshots/Screenshot%202026-11-18%20001012.png)
